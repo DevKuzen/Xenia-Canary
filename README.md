@@ -6,3 +6,4 @@ Etape 5 : Profiter de votre jeux Xbox 360
 Emulateur Xenia compatible avec les versions windows 7,8,8.1,10,11
 Version x64
 IMPORTANT : Il faut obligatoirement une version original du jeu, je ne partagerai pas ici de lien ou de rom/iso
+Liste des jeux compatible : https://github.com/xenia-project/game-compatibility/issues
